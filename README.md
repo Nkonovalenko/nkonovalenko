@@ -20,11 +20,13 @@
 - **Languages:** Python, Scala, SQL, C++
 - **ML & Data:** PyTorch, Spark, Airflow
 
+<!--
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true" alt="GitHub Stats" />
 </p>
+-->
 
 <!--
 **your-github-username/your-github-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
